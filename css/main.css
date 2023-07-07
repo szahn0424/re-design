@@ -1,0 +1,30 @@
+/* 리쎗 */
+*{margin: 0; padding: 0;}
+h1,h2,h3,h4.h5,h6{font-size:inherit;font-weight: normal;}
+b,strong{font-weight: normal;}
+i,em,address{font-style: normal;}
+a{color:inherit;text-decoration: none;}
+ul,ol{list-style: none;}
+/* 리쎗 끗 */
+
+/* 폰트등록 */
+
+@font-face{
+    font-family:NotoSansKR-R;
+    src:url(../font/NotoSansKR-Regular.otf);}
+
+@font-face{
+    font-family:hallymGothic_m;
+    src:url(../font/HallymGothic-Regular.ttf);}
+
+@font-face{
+    font-family:hallymGothic_r;
+    src:url(../font/HallymGothic-Regular.ttf);}
+
+@font-face{
+    font-family:hallymGothic_b;
+    src:url(../font/HallymGothic-Bold.ttf);}
+
+/* 공통스타일 */
+html{font-size: 16px;}
+/* 공통스타일 끝 */

@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 2748.55" style="enable-background:new 0 0 1920 2748.55;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.18;clip-path:url(#SVGID_2_);fill:url(#SVGID_3_);}
+	.st1{opacity:0.18;clip-path:url(#SVGID_2_);fill:url(#SVGID_4_);}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:none;stroke:#E56076;stroke-width:7;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#717171;stroke-width:7;stroke-miterlimit:10;}
+	.st5{fill:#E56076;}
+	.st6{fill:#717171;}
+	.st7{fill:#A5A7AA;}
+	.st8{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-miterlimit:10;}
+	.st9{fill:none;stroke:#E56076;stroke-width:3;stroke-miterlimit:10;}
+	.st10{fill:none;stroke:#E56076;stroke-width:2;stroke-miterlimit:10;}
+	.st11{fill:#FFFFFF;stroke:#A5A7AA;stroke-width:0.75;stroke-miterlimit:10;}
+	.st12{fill:#838383;}
+	.st13{fill:#E56076;stroke:#E56076;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;}
+	.st14{fill:none;stroke:#FFFFFF;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st15{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st16{fill:none;stroke:#FFFFFF;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;}
+	.st17{fill:#A4354E;}
+	.st18{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:4;}
+	.st19{fill:none;stroke:#A4354E;stroke-width:4;stroke-miterlimit:10;}
+	.st20{fill:none;stroke:#FFFFFF;stroke-width:4;}
+	.st21{fill:none;stroke:#FFFFFF;stroke-width:4;stroke-miterlimit:10;}
+	.st22{fill:none;stroke:#E56076;stroke-width:4;stroke-miterlimit:10;}
+	.st23{fill:#B8B8B8;}
+	.st24{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st25{fill:#D7D7D7;}
+	.st26{fill:#3E3A39;}
+	.st27{fill:#E76076;}
+	.st28{fill:#777777;}
+	.st29{fill:none;stroke:#E56076;stroke-width:0.75;stroke-miterlimit:10;}
+	.st30{font-family:'Hallym-Bold';}
+	.st31{font-size:55px;}
+	.st32{letter-spacing:2;}
+	.st33{font-family:'Hallym-Medium';}
+	.st34{font-size:30px;}
+	.st35{letter-spacing:1;}
+	.st36{font-family:'HallymMjo-Regular';}
+	.st37{fill:#E56076;stroke:#E56076;stroke-width:0.75;stroke-miterlimit:10;}
+	.st38{fill:#E56076;stroke:#E56076;stroke-width:0.5;stroke-miterlimit:10;}
+	.st39{font-size:25px;}
+	.st40{fill:none;stroke:#6D6E71;stroke-width:0.75;stroke-miterlimit:10;}
+	.st41{font-family:'Hallym-Regular';}
+	.st42{font-size:21.9445px;}
+	.st43{font-size:26.3407px;}
+	.st44{font-size:21.6999px;}
+	.st45{clip-path:url(#SVGID_10_);}
+	.st46{fill:none;stroke:#919396;stroke-width:0.5;stroke-miterlimit:10;}
+	.st47{fill:none;stroke:#6D6E71;stroke-width:0.5;stroke-miterlimit:10;}
+	.st48{font-size:76.6347px;}
+	.st49{letter-spacing:3;}
+	.st50{font-size:51.2758px;}
+	.st51{font-size:21.2935px;}
+	.st52{opacity:0.5;fill:#E56076;}
+	.st53{font-size:15px;}
+	.st54{font-size:129.7416px;}
+	.st55{letter-spacing:6;}
+	.st56{fill:none;stroke:#E56076;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:9.1907,9.1907;}
+	.st57{fill:none;stroke:#919396;stroke-width:0.75;stroke-miterlimit:10;}
+	.st58{font-family:'HallymMjo-Bold';}
+	.st59{font-size:110px;}
+	.st60{letter-spacing:5;}
+	.st61{fill:none;stroke:#E56076;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:8.7099,8.7099;}
+	.st62{fill:#EDF0F2;}
+	.st63{fill:#6D6E71;}
+	.st64{font-size:22px;}
+	.st65{fill:none;stroke:#6D6E71;stroke-width:4;stroke-miterlimit:10;}
+	.st66{font-size:20px;}
+	.st67{fill:#231F20;}
+	.st68{font-size:24.1885px;}
+	.st69{fill:#666666;}
+	.st70{fill:#FFFFFF;stroke:#E56076;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st71{opacity:0.7;fill:#FFFFFF;}
+	.st72{font-size:49.5662px;}
+	.st73{fill:none;stroke:#717171;stroke-width:2;stroke-miterlimit:10;}
+	.st74{display:none;}
+	.st75{display:inline;}
+	.st76{fill:none;stroke:#E56076;stroke-width:6;stroke-miterlimit:10;}
+	.st77{fill:none;stroke:#A5A7AA;stroke-width:0.75;stroke-miterlimit:10;}
+	.st78{display:inline;fill:none;stroke:#E56076;stroke-width:3;stroke-miterlimit:10;}
+	.st79{display:inline;fill:none;stroke:#E56076;stroke-width:6;stroke-miterlimit:10;}
+	.st80{display:inline;fill:none;stroke:#A5A7AA;stroke-width:0.75;stroke-miterlimit:10;}
+	.st81{fill:none;stroke:#DE295E;stroke-width:4;}
+	.st82{fill:none;stroke:#DE295E;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;}
+	.st83{fill:#FFFFFF;stroke:#DE295E;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;}
+	.st84{fill:#757575;stroke:#DE295E;}
+	.st85{fill:#FFFFFF;stroke:#DE295E;stroke-width:4;}
+	.st86{fill:#FFFFFF;stroke:#000000;stroke-width:0.4552;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	
+		.st87{clip-path:url(#SVGID_34_);fill:#FFFFFF;stroke:#000000;stroke-width:0.4552;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st88{fill:none;stroke:#000000;stroke-width:0.4006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st89{fill:none;stroke:#000000;stroke-width:0.4552;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st90{fill:#FFFFFF;stroke:#000000;stroke-width:0.4006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st91{fill:#FFFFFF;stroke:#000000;stroke-width:0.2543;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st92{fill:none;stroke:#000000;stroke-width:0.4487;stroke-miterlimit:10;}
+	.st93{fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;stroke-dasharray:4,1;}
+	.st94{fill:none;stroke:#000000;stroke-width:0.6577;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st95{fill:#FFFFFF;stroke:#000000;stroke-width:0.6577;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	
+		.st96{clip-path:url(#SVGID_36_);fill:#FFFFFF;stroke:#000000;stroke-width:0.4552;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st97{fill:#DBEDF8;stroke:#000000;stroke-width:0.5265;stroke-miterlimit:10;}
+	.st98{fill:#FFFFFF;stroke:#000000;stroke-width:0.3183;stroke-miterlimit:10;}
+	.st99{fill:none;stroke:#000000;stroke-width:0.2889;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st100{fill:none;stroke:#000000;stroke-width:0.4487;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st101{fill:#FFFFFF;stroke:#000000;stroke-width:0.4487;stroke-miterlimit:10;}
+	.st102{fill:none;stroke:#000000;stroke-width:0.3949;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st103{fill:#FFFFFF;stroke:#000000;stroke-width:0.3949;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st104{fill:none;stroke:#000000;stroke-width:0.2633;stroke-miterlimit:10;}
+	.st105{fill:none;stroke:#000000;stroke-width:0.4552;stroke-linecap:round;stroke-linejoin:round;}
+	.st106{fill:none;stroke:#000000;stroke-width:0.4552;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.8082,1.8082;}
+	.st107{fill:none;stroke:#000000;stroke-width:0.4552;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.6593,1.6593;}
+	.st108{fill:none;stroke:#000000;stroke-width:0.4552;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.4435,1.4435;}
+	.st109{fill:none;stroke:#000000;stroke-width:0.3857;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st110{fill:none;}
+	.st111{fill:none;stroke:#000000;stroke-width:0.3498;stroke-miterlimit:10;}
+	.st112{fill:#FFFFFF;stroke:#000000;stroke-width:0.3857;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	
+		.st113{fill:none;stroke:#000000;stroke-width:0.4552;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:0.8255;}
+	.st114{fill:none;stroke:#000000;stroke-width:0.4411;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st115{fill:none;stroke:#000000;stroke-width:0.4577;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st116{fill:#FFFFFF;stroke:#000000;stroke-width:0.4577;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st117{fill:none;stroke:#000000;stroke-width:0.4727;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st118{fill:none;stroke:#000000;stroke-width:0.3559;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st119{fill:none;stroke:#000000;stroke-width:0.3103;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	
+		.st120{clip-path:url(#SVGID_38_);fill:#FFFFFF;stroke:#000000;stroke-width:0.4552;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st121{fill:none;stroke:#000000;stroke-width:0.4678;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st122{fill:none;stroke:#000000;stroke-width:0.5316;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st123{fill:none;stroke:#000000;stroke-width:0.3965;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st124{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st125{opacity:0.85;fill:#E56076;}
+	.st126{fill:none;stroke:#FFFFFF;stroke-width:5;stroke-miterlimit:10;}
+	.st127{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<g id="텍스트">
+</g>
+<g id="main">
+</g>
+<g id="hi">
+	<text transform="matrix(1 0 0 1 261.9995 359.1603)" class="st30 st31 st32">HI</text>
+	<text transform="matrix(1 0 0 1 260.9995 871.4001)" class="st33 st34 st35">한림고딕체</text>
+	<text transform="matrix(1 0 0 1 260.9995 1775.0188)" class="st36 st34 st35">한림명조체</text>
+	<g>
+		<rect x="260.26" y="460.11" class="st29" width="350" height="80"/>
+		<rect x="610.26" y="460.11" class="st37" width="350" height="80"/>
+		<rect x="960.26" y="460.11" class="st29" width="350" height="80"/>
+		<rect x="1310.26" y="460.11" class="st29" width="350" height="80"/>
+	</g>
+	<line class="st9" x1="1660.44" y1="540.57" x2="260" y2="540.57"/>
+	<text transform="matrix(1 0 0 1 1080.8889 510.8464)" class="st38 st33 st39 st35">시그니처</text>
+	<text transform="matrix(1 0 0 1 743.783 510.8464)" class="st2 st33 st39 st35">한림체</text>
+	<text transform="matrix(1 0 0 1 1443.1423 510.8464)" class="st38 st33 st39 st35">엠블렘</text>
+	<rect x="260" y="589.28" class="st40" width="1400.52" height="190.76"/>
+	<path class="st9" d="M1314.96,711.87h-259.72c-5.52,0-10-4.48-10-10v-39.09c0-5.52,4.48-10,10-10h259.72c5.52,0,10,4.48,10,10
+		v39.09C1324.96,707.4,1320.49,711.87,1314.96,711.87z"/>
+	<text transform="matrix(1 0 0 1 1110.6591 691.6486)" class="st41 st42">한림고딕체 다운로드</text>
+	<g>
+		<polygon class="st10" points="1068.67,678.95 1073.22,686.17 1077.78,693.38 1082.33,686.17 1086.89,678.95 1082.79,678.95 
+			1082.79,665.82 1072.77,665.82 1072.77,678.95 		"/>
+		<polyline class="st10" points="1066.15,693.38 1066.15,698.83 1089.67,698.83 1089.67,693.38 		"/>
+	</g>
+	<path class="st9" d="M1615,711.87h-259.72c-5.52,0-10-4.48-10-10v-39.09c0-5.52,4.48-10,10-10H1615c5.52,0,10,4.48,10,10v39.09
+		C1625,707.4,1620.53,711.87,1615,711.87z"/>
+	<text transform="matrix(1 0 0 1 1410.6982 691.6486)" class="st41 st42">한림명조체 다운로드</text>
+	<g>
+		<polygon class="st10" points="1368.71,678.95 1373.26,686.17 1377.82,693.38 1382.37,686.17 1386.93,678.95 1382.82,678.95 
+			1382.82,665.82 1372.8,665.82 1372.8,678.95 		"/>
+		<polyline class="st10" points="1366.19,693.38 1366.19,698.83 1389.71,698.83 1389.71,693.38 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 288.3086 651.0739)"><tspan x="0" y="0" class="st37 st41 st43">한림대학교의료원</tspan><tspan x="198.08" y="0" class="st41 st44">은 일관된 브랜드 이미지 구축을 위해</tspan><tspan x="0" y="40" class="st41 st44">전용서체를 사용하고 있습니다.한림고딕체와 한림명조체 다운로드가 </tspan><tspan x="0" y="80" class="st41 st44">가능하며 </tspan><tspan x="87.23" y="80" class="st37 st41 st43">각종 시각물·홍보물 제작시에 사용이 가능</tspan><tspan x="549.35" y="80" class="st41 st44">합니다.</tspan></text>
+	<g>
+		<defs>
+			<rect id="SVGID_9_" x="607.56" y="-926.3" width="1049.74" height="292.81"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_9_"  style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_2_);">
+			<g>
+				<line class="st46" x1="399.54" y1="-1144.41" x2="399.54" y2="506.17"/>
+				<line class="st46" x1="418.38" y1="-1144.41" x2="418.38" y2="506.17"/>
+				<line class="st46" x1="437.22" y1="-1144.41" x2="437.22" y2="506.17"/>
+				<line class="st46" x1="456.05" y1="-1144.41" x2="456.05" y2="506.17"/>
+				<line class="st46" x1="474.89" y1="-1144.41" x2="474.89" y2="506.17"/>
+				<line class="st46" x1="493.73" y1="-1144.41" x2="493.73" y2="506.17"/>
+				<line class="st46" x1="512.57" y1="-1144.41" x2="512.57" y2="506.17"/>
+				<line class="st46" x1="531.41" y1="-1144.41" x2="531.41" y2="506.17"/>
+				<line class="st46" x1="550.24" y1="-1144.41" x2="550.24" y2="506.17"/>
+				<line class="st46" x1="569.08" y1="-1144.41" x2="569.08" y2="506.17"/>
+				<line class="st46" x1="587.92" y1="-1144.41" x2="587.92" y2="506.17"/>
+				<line class="st46" x1="606.76" y1="-1144.41" x2="606.76" y2="506.17"/>
+				<line class="st46" x1="625.6" y1="-1144.41" x2="625.6" y2="506.17"/>
+				<line class="st46" x1="644.43" y1="-1144.41" x2="644.43" y2="506.17"/>
+				<line class="st46" x1="663.27" y1="-1144.41" x2="663.27" y2="506.17"/>
+				<line class="st46" x1="682.11" y1="-1144.41" x2="682.11" y2="506.17"/>
+				<line class="st46" x1="700.95" y1="-1144.41" x2="700.95" y2="506.17"/>
+				<line class="st46" x1="719.78" y1="-1144.41" x2="719.78" y2="506.17"/>
+				<line class="st46" x1="738.62" y1="-1144.41" x2="738.62" y2="506.17"/>
+				<line class="st46" x1="757.46" y1="-1144.41" x2="757.46" y2="506.17"/>
+				<line class="st46" x1="776.3" y1="-1144.41" x2="776.3" y2="506.17"/>
+				<line class="st46" x1="795.14" y1="-1144.41" x2="795.14" y2="506.17"/>
+				<line class="st46" x1="813.97" y1="-1144.41" x2="813.97" y2="506.17"/>
+				<line class="st46" x1="832.81" y1="-1144.41" x2="832.81" y2="506.17"/>
+				<line class="st46" x1="851.65" y1="-1144.41" x2="851.65" y2="506.17"/>
+				<line class="st46" x1="870.49" y1="-1144.41" x2="870.49" y2="506.17"/>
+				<line class="st46" x1="889.33" y1="-1144.41" x2="889.33" y2="506.17"/>
+				<line class="st46" x1="908.16" y1="-1144.41" x2="908.16" y2="506.17"/>
+				<line class="st46" x1="927" y1="-1144.41" x2="927" y2="506.17"/>
+				<line class="st46" x1="945.84" y1="-1144.41" x2="945.84" y2="506.17"/>
+				<line class="st46" x1="964.68" y1="-1144.41" x2="964.68" y2="506.17"/>
+				<line class="st46" x1="983.52" y1="-1144.41" x2="983.52" y2="506.17"/>
+				<line class="st46" x1="1002.35" y1="-1144.41" x2="1002.35" y2="506.17"/>
+				<line class="st46" x1="1021.19" y1="-1144.41" x2="1021.19" y2="506.17"/>
+				<line class="st46" x1="1040.03" y1="-1144.41" x2="1040.03" y2="506.17"/>
+				<line class="st46" x1="1058.87" y1="-1144.41" x2="1058.87" y2="506.17"/>
+				<line class="st46" x1="1077.7" y1="-1144.41" x2="1077.7" y2="506.17"/>
+				<line class="st46" x1="1096.54" y1="-1144.41" x2="1096.54" y2="506.17"/>
+				<line class="st46" x1="1115.38" y1="-1144.41" x2="1115.38" y2="506.17"/>
+				<line class="st46" x1="1134.22" y1="-1144.41" x2="1134.22" y2="506.17"/>
+				<line class="st46" x1="1153.06" y1="-1144.41" x2="1153.06" y2="506.17"/>
+				<line class="st46" x1="1171.89" y1="-1144.41" x2="1171.89" y2="506.17"/>
+				<line class="st46" x1="1190.73" y1="-1144.41" x2="1190.73" y2="506.17"/>
+				<line class="st46" x1="1209.57" y1="-1144.41" x2="1209.57" y2="506.17"/>
+				<line class="st46" x1="1228.41" y1="-1144.41" x2="1228.41" y2="506.17"/>
+				<line class="st46" x1="1247.25" y1="-1144.41" x2="1247.25" y2="506.17"/>
+				<line class="st46" x1="1266.08" y1="-1144.41" x2="1266.08" y2="506.17"/>
+				<line class="st46" x1="1284.92" y1="-1144.41" x2="1284.92" y2="506.17"/>
+				<line class="st46" x1="1303.76" y1="-1144.41" x2="1303.76" y2="506.17"/>
+				<line class="st46" x1="1322.6" y1="-1144.41" x2="1322.6" y2="506.17"/>
+				<line class="st46" x1="1341.44" y1="-1144.41" x2="1341.44" y2="506.17"/>
+				<line class="st46" x1="1360.27" y1="-1144.41" x2="1360.27" y2="506.17"/>
+				<line class="st46" x1="1379.11" y1="-1144.41" x2="1379.11" y2="506.17"/>
+				<line class="st46" x1="1397.95" y1="-1144.41" x2="1397.95" y2="506.17"/>
+				<line class="st46" x1="1416.79" y1="-1144.41" x2="1416.79" y2="506.17"/>
+				<line class="st46" x1="1435.62" y1="-1144.41" x2="1435.62" y2="506.17"/>
+				<line class="st46" x1="1454.46" y1="-1144.41" x2="1454.46" y2="506.17"/>
+				<line class="st46" x1="1473.3" y1="-1144.41" x2="1473.3" y2="506.17"/>
+				<line class="st46" x1="1492.14" y1="-1144.41" x2="1492.14" y2="506.17"/>
+				<line class="st46" x1="1510.98" y1="-1144.41" x2="1510.98" y2="506.17"/>
+				<line class="st46" x1="1529.81" y1="-1144.41" x2="1529.81" y2="506.17"/>
+				<line class="st46" x1="1548.65" y1="-1144.41" x2="1548.65" y2="506.17"/>
+				<line class="st46" x1="1567.49" y1="-1144.41" x2="1567.49" y2="506.17"/>
+				<line class="st46" x1="1586.33" y1="-1144.41" x2="1586.33" y2="506.17"/>
+				<line class="st46" x1="1605.17" y1="-1144.41" x2="1605.17" y2="506.17"/>
+				<line class="st46" x1="1624" y1="-1144.41" x2="1624" y2="506.17"/>
+				<line class="st46" x1="1642.84" y1="-1144.41" x2="1642.84" y2="506.17"/>
+				<line class="st46" x1="1661.68" y1="-1144.41" x2="1661.68" y2="506.17"/>
+				<line class="st46" x1="1680.52" y1="-1144.41" x2="1680.52" y2="506.17"/>
+				<line class="st46" x1="1699.36" y1="-1144.41" x2="1699.36" y2="506.17"/>
+				<line class="st46" x1="1718.19" y1="-1144.41" x2="1718.19" y2="506.17"/>
+				<line class="st46" x1="1737.03" y1="-1144.41" x2="1737.03" y2="506.17"/>
+				<line class="st46" x1="1755.87" y1="-1144.41" x2="1755.87" y2="506.17"/>
+				<line class="st46" x1="1774.71" y1="-1144.41" x2="1774.71" y2="506.17"/>
+				<line class="st46" x1="1793.55" y1="-1144.41" x2="1793.55" y2="506.17"/>
+				<line class="st46" x1="1812.38" y1="-1144.41" x2="1812.38" y2="506.17"/>
+				<line class="st46" x1="1831.22" y1="-1144.41" x2="1831.22" y2="506.17"/>
+				<line class="st46" x1="1850.06" y1="-1144.41" x2="1850.06" y2="506.17"/>
+				<line class="st46" x1="1868.9" y1="-1144.41" x2="1868.9" y2="506.17"/>
+				<line class="st46" x1="1887.73" y1="-1144.41" x2="1887.73" y2="506.17"/>
+				<line class="st46" x1="1906.57" y1="-1144.41" x2="1906.57" y2="506.17"/>
+			</g>
+			<g>
+				<line class="st46" x1="2157.31" y1="10.54" x2="506.72" y2="10.54"/>
+				<line class="st46" x1="2157.31" y1="29.38" x2="506.72" y2="29.38"/>
+				<line class="st46" x1="2157.31" y1="48.22" x2="506.72" y2="48.22"/>
+				<line class="st46" x1="2157.31" y1="67.06" x2="506.72" y2="67.06"/>
+				<line class="st46" x1="2157.31" y1="85.9" x2="506.72" y2="85.9"/>
+				<line class="st46" x1="2157.31" y1="104.73" x2="506.72" y2="104.73"/>
+				<line class="st46" x1="2157.31" y1="123.57" x2="506.72" y2="123.57"/>
+				<line class="st46" x1="2157.31" y1="142.41" x2="506.72" y2="142.41"/>
+				<line class="st46" x1="2157.31" y1="161.25" x2="506.72" y2="161.25"/>
+				<line class="st46" x1="2157.31" y1="180.08" x2="506.72" y2="180.08"/>
+				<line class="st46" x1="2157.31" y1="198.92" x2="506.72" y2="198.92"/>
+				<line class="st46" x1="2157.31" y1="217.76" x2="506.72" y2="217.76"/>
+				<line class="st46" x1="2157.31" y1="236.6" x2="506.72" y2="236.6"/>
+				<line class="st46" x1="2157.31" y1="255.44" x2="506.72" y2="255.44"/>
+				<line class="st46" x1="2157.31" y1="274.27" x2="506.72" y2="274.27"/>
+				<line class="st46" x1="2157.31" y1="293.11" x2="506.72" y2="293.11"/>
+				<line class="st46" x1="2157.31" y1="311.95" x2="506.72" y2="311.95"/>
+				<line class="st46" x1="2157.31" y1="330.79" x2="506.72" y2="330.79"/>
+				<line class="st46" x1="2157.31" y1="349.63" x2="506.72" y2="349.63"/>
+				<line class="st46" x1="2157.31" y1="368.46" x2="506.72" y2="368.46"/>
+				<line class="st46" x1="2157.31" y1="387.3" x2="506.72" y2="387.3"/>
+				<line class="st46" x1="2157.31" y1="406.14" x2="506.72" y2="406.14"/>
+				<line class="st46" x1="2157.31" y1="424.98" x2="506.72" y2="424.98"/>
+				<line class="st46" x1="2157.31" y1="443.82" x2="506.72" y2="443.82"/>
+				<line class="st46" x1="2157.31" y1="462.65" x2="506.72" y2="462.65"/>
+				<line class="st46" x1="2157.31" y1="481.49" x2="506.72" y2="481.49"/>
+				<line class="st46" x1="2157.31" y1="500.33" x2="506.72" y2="500.33"/>
+				<line class="st46" x1="2157.31" y1="519.17" x2="506.72" y2="519.17"/>
+				<line class="st46" x1="2157.31" y1="538.01" x2="506.72" y2="538.01"/>
+				<line class="st46" x1="2157.31" y1="556.84" x2="506.72" y2="556.84"/>
+				<line class="st46" x1="2157.31" y1="575.68" x2="506.72" y2="575.68"/>
+				<line class="st46" x1="2157.31" y1="594.52" x2="506.72" y2="594.52"/>
+				<line class="st46" x1="2157.31" y1="613.36" x2="506.72" y2="613.36"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 375.717 510.8464)" class="st38 st33 st39 st35">로고 규정</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 773.2602 1415.9041)" class="st30 st48 st49">한림고딕체</text>
+		<text transform="matrix(1 0 0 1 773.2602 1519.0222)" class="st33 st48 st49">한림고딕체</text>
+		<text transform="matrix(1 0 0 1 773.2602 1619.5687)" class="st41 st48 st49">한림고딕체</text>
+		<text transform="matrix(1 0 0 1 1182.9224 1408.645)" class="st30 st50 st32">환자중심 의료서비스</text>
+		<text transform="matrix(1 0 0 1 1182.9224 1511.7123)" class="st33 st50 st32">환자중심 의료서비스</text>
+		<text transform="matrix(1 0 0 1 1182.9224 1612.2656)" class="st41 st50 st32">환자중심 의료서비스</text>
+		<text transform="matrix(1 0 0 1 617.5664 1400.0629)" class="st30 st51 st35">BOLD</text>
+		<text transform="matrix(1 0 0 1 617.5664 1501.0698)" class="st33 st51 st35">MEDIUM</text>
+		<text transform="matrix(1 0 0 1 617.5664 1603.6304)" class="st41 st51 st35">REGULAR</text>
+		<line class="st40" x1="608.42" y1="1439.03" x2="1655.68" y2="1439.03"/>
+		<line class="st40" x1="608.42" y1="1542.54" x2="1655.68" y2="1542.54"/>
+		<line class="st40" x1="608.42" y1="1646.04" x2="1655.68" y2="1646.04"/>
+	</g>
+	<g>
+		<circle class="st52" cx="1036.65" cy="1176.55" r="52.67"/>
+		<g>
+			<text transform="matrix(1 0 0 1 773.0829 1119.9514)"><tspan x="0" y="0" class="st41 st53">휘어짐 없이</tspan><tspan x="-29.7" y="22" class="st41 st53">직각형태의 조합으로</tspan><tspan x="-14.85" y="44" class="st41 st53">한림의 견고함을</tspan><tspan x="-14.85" y="66" class="st41 st53">시각적으로 표현</tspan></text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 787.9467 955.7223)"><tspan x="0" y="0" class="st41 st53">힘에 눌리지 않은</tspan><tspan x="24.6" y="22" class="st41 st53">정원 형태</tspan></text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 1428.6854 1026.2461)"><tspan x="0" y="0" class="st41 st53">수직수평의</tspan><tspan x="-2.32" y="22" class="st41 st53">상단 구조로</tspan><tspan x="-17.17" y="44" class="st41 st53">장식적인 묘사를</tspan><tspan x="-7.42" y="66" class="st41 st53">생락함으로써</tspan><tspan x="0" y="88" class="st41 st53">현대적이고</tspan><tspan x="-9.75" y="110" class="st41 st53">모던한 이미지</tspan></text>
+		</g>
+		<polyline class="st9" points="987.27,1196.58 946.09,1196.58 890.12,1161.95 		"/>
+		<circle class="st52" cx="1060.22" cy="958.77" r="52.67"/>
+		<circle class="st52" cx="1274.86" cy="1127.81" r="52.67"/>
+		<polyline class="st9" points="1326.35,1124.66 1365.19,1124.66 1399.58,1090.28 		"/>
+		<text transform="matrix(1 0 0 1 1021.3564 1032.8514)"><tspan x="0" y="0" class="st30 st54 st55">한림</tspan><tspan x="-64.22" y="163.72" class="st30 st54 st55">대학교</tspan></text>
+		<g>
+			
+				<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -367.4225 1030.5043)" class="st56" cx="1060.22" cy="958.77" rx="52.67" ry="52.67"/>
+		</g>
+		<g>
+			
+				<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -424.0807 1231.7905)" class="st56" cx="1274.86" cy="1127.81" rx="52.67" ry="52.67"/>
+		</g>
+		<g>
+			<circle class="st56" cx="1036.65" cy="1176.55" r="52.67"/>
+		</g>
+		<path class="st57" d="M866.23,1202.66H755.48c-11.05,0-20-8.95-20-20v-71.74c0-11.05,8.95-20,20-20h110.75c11.05,0,20,8.95,20,20
+			v71.74C886.23,1193.7,877.28,1202.66,866.23,1202.66z"/>
+		<path class="st57" d="M1511.43,1155.51h-91.23c-11.05,0-20-8.95-20-20v-119.18c0-11.05,8.95-20,20-20h91.23c11.05,0,20,8.95,20,20
+			v119.18C1531.43,1146.56,1522.47,1155.51,1511.43,1155.51z"/>
+		<path class="st57" d="M899.95,993.16H789.2c-11.05,0-20-8.95-20-20v-23.51c0-11.05,8.95-20,20-20h110.75c11.05,0,20,8.95,20,20
+			v23.51C919.95,984.2,910.99,993.16,899.95,993.16z"/>
+		<circle class="st5" cx="886.23" cy="1158.06" r="5.89"/>
+		<circle class="st5" cx="921.2" cy="962.38" r="5.89"/>
+		<line class="st9" x1="1006.45" y1="962.38" x2="925.8" y2="962.38"/>
+		<circle class="st5" cx="1399.58" cy="1088.71" r="5.89"/>
+	</g>
+	<g>
+		<circle class="st5" cx="1113.66" cy="1851.88" r="5.89"/>
+		<g>
+			<path class="st57" d="M1577.39,2064.71h-90.43c-11.05,0-20-8.95-20-20v-90.43c0-11.05,8.95-20,20-20h90.43c11.05,0,20,8.95,20,20
+				v90.43C1597.39,2055.76,1588.43,2064.71,1577.39,2064.71z"/>
+			<text transform="matrix(1 0 0 1 1484.9766 1962.8213)"><tspan x="0" y="0" class="st41 st53">각진 부분 없이</tspan><tspan x="-5.1" y="22" class="st41 st53">부드러운 부리로</tspan><tspan x="4.65" y="44" class="st41 st53">한림의료원의</tspan><tspan x="2.32" y="66" class="st41 st53">따뜻한 마음을</tspan><tspan x="26.92" y="88" class="st41 st53">형상화</tspan></text>
+			<path class="st57" d="M1352.87,1888.22h-220.85c-11.05,0-20-8.95-20-20v-48c0-11.05,8.95-20,20-20h220.85c11.05,0,20,8.95,20,20
+				v48C1372.87,1879.26,1363.91,1888.22,1352.87,1888.22z"/>
+			<text transform="matrix(1 0 0 1 1126.0945 1827.5339)"><tspan x="0" y="0" class="st41 st53">정성스럽게 손으로 써내려가는 듯한</tspan><tspan x="5.1" y="22" class="st41 st53">붓의 흐름을 표현한 획의 맺음으로</tspan><tspan x="22.27" y="44" class="st41 st53">정성을 다하는 마음을 표현함</tspan></text>
+			<g>
+				<text transform="matrix(1 0 0 1 1187.0403 2240.0449)"><tspan x="0" y="0" class="st41 st53">획이 붙는 부분 없이 제작되어</tspan><tspan x="34.35" y="22" class="st41 st53">글사 인식이 용이함</tspan></text>
+			</g>
+			<path class="st57" d="M1374.47,2276.58H1195.8c-11.05,0-20-8.95-20-20v-25.06c0-11.05,8.95-20,20-20h178.67
+				c11.05,0,20,8.95,20,20v25.06C1394.47,2267.62,1385.52,2276.58,1374.47,2276.58z"/>
+			<path class="st57" d="M795.07,1998.2H684.32c-11.05,0-20-8.95-20-20v-71.74c0-11.05,8.95-20,20-20h110.75c11.05,0,20,8.95,20,20
+				v71.74C815.07,1989.24,806.11,1998.2,795.07,1998.2z"/>
+			<circle class="st52" cx="1150.56" cy="2132.39" r="52.67"/>
+			<circle class="st52" cx="956.09" cy="1937.95" r="52.67"/>
+			<circle class="st52" cx="1107.81" cy="1945.33" r="36.05"/>
+			<circle class="st52" cx="1392.47" cy="2062.1" r="52.67"/>
+			<text transform="matrix(1 0 0 1 918.4515 2000.6194)"><tspan x="0" y="0" class="st58 st59 st60">일송학원</tspan><tspan x="-56.1" y="145" class="st58 st59 st60">한림의료원</tspan></text>
+			<circle class="st5" cx="817.08" cy="1941.55" r="5.89"/>
+			<circle class="st5" cx="1174.86" cy="2244.15" r="5.89"/>
+			<circle class="st5" cx="1467.11" cy="1991.62" r="5.89"/>
+			<g>
+				
+					<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -1090.3024 1243.6692)" class="st56" cx="956.09" cy="1937.95" rx="52.67" ry="52.67"/>
+			</g>
+			<g>
+				
+					<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -1051.0845 1353.1095)" class="st61" cx="1107.81" cy="1945.33" rx="36.05" ry="36.05"/>
+			</g>
+			<g>
+				
+					<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -1050.2793 1588.5996)" class="st56" cx="1392.47" cy="2062.1" rx="52.67" ry="52.67"/>
+			</g>
+			<g>
+				<circle class="st56" cx="1150.56" cy="2132.39" r="52.67"/>
+			</g>
+			<line class="st9" x1="902.32" y1="1941.55" x2="821.67" y2="1941.55"/>
+			<line class="st9" x1="1467.86" y1="1990.62" x2="1431.64" y2="2026.84"/>
+			<polyline class="st9" points="1112.66,1850.88 1090.89,1866.96 1090.89,1913.49 			"/>
+			<polyline class="st9" points="1150.56,2185.07 1150.56,2225.77 1174.86,2244.15 			"/>
+			<text transform="matrix(1 0 0 1 686.6978 1918.7192)"><tspan x="0" y="0" class="st41 st53">상투를 생략하고</tspan><tspan x="7.42" y="22" class="st41 st53">정원의 형태로</tspan><tspan x="-7.42" y="44" class="st41 st53">깔끔하고 현대적인</tspan><tspan x="32.02" y="66" class="st41 st53">이미지</tspan></text>
+		</g>
+	</g>
+</g>
+<g id="상단_x5F_hi">
+	<rect y="120.76" class="st62" width="1920" height="80"/>
+	<text transform="matrix(1 0 0 1 287.3085 167.0587)" class="st63 st30 st64">의료원 소개</text>
+	<g>
+		<polyline class="st65" points="515.8,156.82 523.15,164.7 530.49,156.82 		"/>
+	</g>
+	<g>
+		<polyline class="st65" points="833.37,156.82 840.72,164.7 848.07,156.82 		"/>
+	</g>
+	<rect x="260.59" y="120.76" class="st47" width="303.69" height="80"/>
+	<rect x="564.32" y="120.76" class="st47" width="303.69" height="80"/>
+	<text transform="matrix(1 0 0 1 611.1759 167.0587)" class="st63 st30 st64">HI</text>
+	<rect y="120.76" class="st47" width="1920" height="80"/>
+</g>
+<g id="메인상단_x5F_hi">
+	<g>
+		<rect class="st2" width="1920" height="120"/>
+	</g>
+	<path class="st5" d="M952,48H816.95c-2.75,0-5-2.25-5-5V6c0-2.76,2.24-5,5-5H952c2.75,0,5,2.25,5,5v37C957,45.75,954.75,48,952,48z
+		"/>
+	<path class="st6" d="M1103.05,48H968c-2.75,0-5-2.25-5-5V6c0-2.76,2.24-5,5-5h135.05c2.75,0,5,2.25,5,5v37
+		C1108.05,45.75,1105.8,48,1103.05,48z"/>
+	<text transform="matrix(1 0 0 1 846.8745 31.7442)" class="st2 st33 st66">진료예약</text>
+	<text transform="matrix(1 0 0 1 988.5269 31.7442)" class="st2 st33 st66">진료시간표</text>
+	<g>
+		<text transform="matrix(1 0 0 1 700.1914 93.0816)" class="st67 st33 st68">소개</text>
+		<text transform="matrix(1 0 0 1 849.9078 93.0816)" class="st67 st33 st68">산하기관</text>
+		<text transform="matrix(1 0 0 1 1045.0979 93.0816)" class="st67 st33 st68">산하연구소</text>
+		<text transform="matrix(1 0 0 1 1263.0242 93.0816)" class="st67 st33 st68">사회공헌</text>
+		<text transform="matrix(1 0 0 1 1458.2144 93.0816)" class="st67 st33 st68">PR</text>
+		<text transform="matrix(1 0 0 1 1594.1914 93.0816)" class="st67 st33 st68">한림인</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 1498 39.4862)" class="st69 st41 st53">로그인 ㆍ 회원가입 ㆍ EN</text>
+	</g>
+	<line class="st9" x1="0" y1="121" x2="1924.87" y2="121"/>
+	<g>
+		<g>
+			<g>
+				<g>
+					<path class="st26" d="M373.85,61.9h-3.36v-4.1h7.64v-4.06h5.17v4.06h7.76v4.1h-3.29c1.18,1.4,1.88,3.18,1.88,5.13
+						c0,4.65-3.91,8.34-8.86,8.34c-4.95,0-8.79-3.69-8.79-8.34C372,65.08,372.66,63.31,373.85,61.9z M381.38,77.93v6.57h17.73v4.21
+						h-22.93V77.93H381.38z M380.79,71.1c2.25,0,3.77-1.81,3.77-4.4c0-2.55-1.51-4.58-3.77-4.58s-3.77,2.03-3.77,4.58
+						C377.02,69.29,378.54,71.1,380.79,71.1z M398.55,54.55v9.38h5.47v4.25h-5.47v11.15h-5.13V54.55H398.55z"/>
+					<path class="st26" d="M426.15,69.29v4.06h-18.32V62.01h11.15v-2.77h-11.15v-4.14h16.21v11.04H412.9v3.14H426.15z M412.53,75.68
+						h22.34v13.4h-22.34V75.68z M417.7,79.85v4.95h12v-4.95H417.7z M434.87,54.55v19.46h-5.13V54.55H434.87z"/>
+					<path class="st26" d="M455.79,75.75v4.36h-14.22V56.62h13.11v4.36h-7.94v14.77H455.79z M470.3,54.55v34.16h-4.99V70.58h-2.47
+						V87.6H458V54.96h4.84v11.3h2.47V54.55H470.3z"/>
+					<path class="st26" d="M477.7,61.57h-3.14v-4.14h7.64v-4.02h5.17v4.02h7.76v4.14h-3.1c1,1.33,1.59,2.92,1.59,4.62
+						c0,4.43-3.84,8.05-8.75,8.05c-4.91,0-8.71-3.62-8.71-8.05C476.15,64.49,476.71,62.9,477.7,61.57z M497.5,89.08v-8.35h-17.25
+						v-4.25h22.38v12.59H497.5z M484.87,69.99c2.29,0,3.77-1.81,3.77-4.1c0-2.29-1.48-4.14-3.77-4.14c-2.33,0-3.77,1.85-3.77,4.14
+						C481.1,68.18,482.54,69.99,484.87,69.99z M502.63,54.55v8.2h5.47v4.32h-5.47v7.57h-5.13V54.55H502.63z"/>
+					<path class="st26" d="M517.01,80.92V70.1h5.06v10.82h3.32V70.1h5.06v10.82h11.34v4.25h-31.76v-4.25H517.01z M537.62,76.16h-5.1
+						V61.31H513.8v-4.36h23.82V76.16z"/>
+					<path class="st26" d="M567.4,77.93v4.32h-22.49v-4.32H567.4z M546.46,64.56c0-5.28,4.43-8.98,9.64-8.98
+						c5.06,0,9.67,3.69,9.67,8.98c0,5.36-4.5,8.97-9.67,8.97C550.89,73.53,546.46,69.95,546.46,64.56z M560.53,64.56
+						c0-2.81-1.99-4.69-4.43-4.69c-2.48,0-4.47,1.88-4.47,4.69c0,2.84,1.99,4.73,4.47,4.73C558.54,69.29,560.53,67.4,560.53,64.56z
+						 M574.38,54.55v34.16h-5.13V54.55H574.38z"/>
+					<path class="st26" d="M579.42,80.92h8.05V75.9h-3.88V63.82h18.21v-3.47h-18.21V56.1h23.38V68H588.8v3.66h18.68v4.25h-4.39v5.02
+						h8.09v4.25h-31.76V80.92z M598.03,80.92V75.9h-5.47v5.02H598.03z"/>
+					<path class="st26" d="M627.89,73.42v4.54h-5.06v-4.54h-8.53v-4.14h22.12v4.14H627.89z M634.2,61.16c0,3.88-3.32,7.2-8.64,7.2
+						c-5.43,0-8.75-3.29-8.75-7.13c0-3.91,3.21-7.31,8.75-7.31C630.88,53.93,634.2,57.29,634.2,61.16z M625.52,84.5h18.83v4.21
+						h-24.04v-9.67h5.21V84.5z M629.22,61.16c0-1.62-1.48-3.1-3.66-3.1c-2.33,0-3.77,1.48-3.77,3.1c0,1.66,1.44,3.1,3.77,3.1
+						C627.74,64.26,629.22,62.83,629.22,61.16z M638.6,78.93h-6.98v-3.99h6.98V54.52h5.17v26.55h-5.17V78.93z"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="st6" d="M267.91,57.82c4.15,0.4,3.79,1.66,6.74,4.6c3.93,3.91,7.78,4.13,10.52,1.97c-1.65-0.51-3.56-1.87-4.62-2.88
+					c-2.97-2.8-3.81-6.5-12.59-3.96C267.57,57.66,267.66,57.79,267.91,57.82"/>
+			</g>
+			<g>
+				<g>
+					<path class="st6" d="M357.82,51.94c-13.39-5.97-27.07-2.6-38.07,7.24c-10.72,9.58-18.05,20.86-32.44,21.1
+						c11.01,3.82,32.73,2.39,44.64-9.52c0.32-0.33,0.07-0.29-0.13-0.18c-6.89,4.17-17.8,6.22-22.49,4.69
+						c12.47-8.07,22.43-22.19,48.44-22.79C358.72,52.37,358.68,52.33,357.82,51.94"/>
+				</g>
+			</g>
+			<g>
+				<path class="st6" d="M286.31,73.91c-2.44,0.03-4.95-1.34-6.43-2.33c-2.17-1.45-3.69-3.54-5.38-5.19
+					c-2.74-2.7-7.33-4.7-13.62-2.18c-0.34,0.14-0.41,0.3-0.07,0.32c5.77,0.29,5.57,1,10.41,6.37
+					C274.5,74.52,283.21,75.55,286.31,73.91"/>
+			</g>
+			<g>
+				<path class="st27" d="M346.31,45.14c-2.04-1.22-9.71-5.14-17.17-4.37c-3.87,0.4-7.24,1.43-10.63,3.86
+					c-1.6,1.03-2.71,1.81-3.68,2.53v0c-0.08,0.06-0.45,0.34-0.56,0.42c-3.07,2.27-5.75,3.4-7.3,3.91c-0.55,0.17-1.03,0.3-1.42,0.4
+					c5.01-6.42,10.41-12.55,17.08-15.16c0.21-0.09,0.2-0.35-0.02-0.4c-8.1-2.04-16.58-0.89-23.26,9.38
+					c-7.61,11.69-12.15,25.63-22.67,20.6c6.5,6.18,14.52,3.51,21.42-4.84c0.97-1.18,1.95-2.42,2.92-3.68l1.15-1.5
+					c3.29-0.24,5.7-1.04,7.09-1.62l-2.27,3.12c-7.54,10.34-17.66,22.76-32.68,16.62c17.34,11.54,30.31-5.05,36.76-11.12
+					c7.98-7.49,16-17.09,35.26-17.62C346.76,45.64,347.08,45.59,346.31,45.14"/>
+			</g>
+		</g>
+	</g>
+	<line class="st3" x1="0" y1="3" x2="957" y2="3"/>
+	<line class="st4" x1="963" y1="3" x2="1920" y2="3"/>
+</g>
+<g id="sider">
+</g>
+<g id="소개_x5F_상단_x5F_하단">
+</g>
+<g id="소개_x5F_본문">
+	<g>
+		<text transform="matrix(1 0 0 1 773.2602 2440.3352)" class="st58 st48 st49">한림고딕체</text>
+		<text transform="matrix(1 0 0 1 773.2602 2545.156)" class="st36 st48 st49">한림고딕체</text>
+		<text transform="matrix(1 0 0 1 1182.9219 2433.8223)" class="st58 st72 st32">환자중심 의료서비스</text>
+		<text transform="matrix(1 0 0 1 1182.9219 2536.751)" class="st36 st72 st32">환자중심 의료서비스</text>
+		<text transform="matrix(1 0 0 1 617.5664 2424.615)" class="st58 st51 st35">BOLD</text>
+		<text transform="matrix(1 0 0 1 617.5664 2525.6218)" class="st36 st51 st35">REGULAR</text>
+		<line class="st40" x1="608.42" y1="2464.59" x2="1655.68" y2="2464.59"/>
+		<line class="st40" x1="608.42" y1="2568.09" x2="1655.68" y2="2568.09"/>
+	</g>
+</g>
+<g id="menu_x5F_소개" class="st74">
+</g>
+<g id="menu_x5F_산하기관" class="st74">
+</g>
+<g id="menu_x5F_산하기관_copy" class="st74">
+</g>
+<g id="menu_x5F_사회공헌" class="st74">
+</g>
+<g id="menu_x5F_PR" class="st74">
+</g>
+<g id="menu_x5F_PR_copy" class="st74">
+</g>
+<g id="그리드_14_x2F_20" class="st74">
+</g>
+<g id="icon">
+</g>
+<g id="Layer_16" class="st74">
+</g>
+<g id="예약팝업">
+</g>
+</svg>
